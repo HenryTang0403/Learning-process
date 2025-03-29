@@ -1,6 +1,4 @@
 .vscode/
-code/*
-!code/*/
-!code/*.*
-code/**/*
+code/**
+!code/**/
 !code/**/*.*
