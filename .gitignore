@@ -1,3 +1,4 @@
 .vscode/
-code/zerojudge/main
-code/NTOJ/main
+code/*
+!code/*/
+!code/*.*
