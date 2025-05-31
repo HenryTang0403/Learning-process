@@ -1,4 +1,4 @@
 .vscode/
 code/**
-!code/**/
 !code/**/*.*
+code/test.cpp
